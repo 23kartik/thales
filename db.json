@@ -1,0 +1,24 @@
+{
+  "details": [
+    {
+      "id": 1,
+      "name": "kartike",
+      "age": 22
+    },
+    {
+      "id": 2,
+      "name": "Kartike Tiwari",
+      "age": 22
+    },
+    {
+      "id": 3,
+      "name": "riya saxena",
+      "age": 21
+    },
+    {
+      "id": 4,
+      "name": "abcde",
+      "age": 26
+    }
+  ]
+}
